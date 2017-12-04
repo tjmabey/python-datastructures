@@ -1,2 +1,2 @@
 # python-datastructures
-a variety of data structures implemented in python
+this is a collection of data structures that i have created in python 3
